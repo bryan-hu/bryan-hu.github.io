@@ -1,2 +1,2 @@
-# bryan-hu.github.io
-Personal Website
+# Bryan Hu
+Personal Website for math and academic purposes.
