@@ -43,6 +43,15 @@ font-size:25px;
 font-weight:normal;
 }
 
+@media (max-width:600px) {
+  h2.responsive {
+    margin:0px;
+    padding-bottom: 5px;
+    font-size:25px;
+    font-weight:normal;
+  }
+}
+
 img {
 border:none;
 border-radius: 50%;
